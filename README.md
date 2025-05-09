@@ -1,6 +1,5 @@
 # CPSC327 : Data Structures & Algs. Project 2 - Dijkstra's Algorithm Implementation
 
-## Overview
 This project implements Dijkstra's algorithm for finding the shortest paths between nodes in a graph. The implementation is written in Java and provides a comprehensive solution for computing single-source shortest paths in weighted graphs.
 
 ## Features
